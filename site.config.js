@@ -6,16 +6,16 @@ const CONFIG = {
     role: "product designer",
     bio: "design for no design.",
     email: "maoshuochen@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    linkedin: "maoshuochen",
+    github: "maoshuochen",
     instagram: "",
   },
-  projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
-  ],
+  // projects: [
+  //   {
+  //     name: `morethan-log`,
+  //     href: "https://github.com/morethanmin/morethan-log",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
     title: "morethan-log",
